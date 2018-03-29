@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/source">
+        <file>PlacementTip.png</file>
+        <file>ChessBoard.png</file>
+        <file>blackChess.png</file>
+        <file>whiteChess.png</file>
+    </qresource>
+</RCC>
